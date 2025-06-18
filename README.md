@@ -48,8 +48,11 @@ const achmadFauzy = {
 
 ### 📱 Mobile Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,ionic,typescript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,typescript" />
+  <br />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 </div>
+
 
 
 ### 🗄️ Database & Cloud
